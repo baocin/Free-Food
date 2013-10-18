@@ -1,0 +1,21 @@
+Japan
+
+top-down
+walls
+movable player (wasd)
+Control Time
+
+todo:
+How much of the level is in view
+Rooms blacked out until entered?  //Not priority
+collisions (Spirte Masks)
+Traps turret/spikes/paintings
+Player char that moves/aims (wasd/mouse)
+AI
+
+Objects:
+
+Floor
+Wall
+Player
+Generic Enemy Parent

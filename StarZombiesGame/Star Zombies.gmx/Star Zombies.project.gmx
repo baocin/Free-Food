@@ -7,7 +7,7 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sprite1</sprite>
-    <sprite>sprites\Sprite7</sprite>
+    <sprite>sprites\Pacman</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
